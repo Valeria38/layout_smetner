@@ -9,7 +9,6 @@
 }
 .contacts {
   width: 100%;
-  /* width: 1280px; */
   height: 850px;
   background: url(../img/main.png);
   margin: 0 auto;
@@ -195,15 +194,15 @@
   }
   .contacts__form,
   .contacts__form > div {
-    width: 400px;
+    width: 380px;
   }
   .contacts__form-description {
-    width: 400px;
+    width: 380px;
   }
   .contacts__created-by {
-    width: 400px;
+    width: 380px;
   }
   .contacts__dotted {
-    width: 450px;
+    width: 400px;
   }
 }
