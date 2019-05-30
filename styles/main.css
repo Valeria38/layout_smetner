@@ -209,8 +209,10 @@
   .contacts__form-description {
     width: 300px;
   }
-  .contacts__dotted,
-  .contacts__phone {
+  .contacts__dotted {
     width: 320px;
+  }
+  .contacts__phone {
+    width: 280px;
   }
 }
