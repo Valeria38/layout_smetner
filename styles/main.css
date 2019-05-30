@@ -194,15 +194,15 @@
   }
   .contacts__form,
   .contacts__form > div {
-    width: 380px;
+    width: 360px;
   }
   .contacts__form-description {
-    width: 380px;
+    width: 360px;
   }
   .contacts__created-by {
-    width: 380px;
+    width: 360px;
   }
   .contacts__dotted {
-    width: 400px;
+    width: 376px;
   }
 }
