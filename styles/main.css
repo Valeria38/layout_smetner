@@ -203,7 +203,7 @@
 @media screen and (max-width: 400px) {
   .contacts__form,
   .contacts__form > div {
-    width: 360px;
+    width: 320px;
   }
   .contacts__created-by,
   .contacts__form-description {
@@ -213,6 +213,7 @@
     width: 320px;
   }
   .contacts__phone {
-    width: 280px;
+    width: 390px;
+    font-size: 36px;
   }
 }
