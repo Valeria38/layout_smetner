@@ -203,15 +203,14 @@
 @media screen and (max-width: 400px) {
   .contacts__form,
   .contacts__form > div {
-    width: 300px;
+    width: 320px;
   }
+  .contacts__created-by,
   .contacts__form-description {
     width: 300px;
   }
-  .contacts__created-by {
-    width: 300px;
-  }
-  .contacts__dotted {
+  .contacts__dotted,
+  .contacts__phone {
     width: 320px;
   }
 }
